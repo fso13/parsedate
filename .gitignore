@@ -1,0 +1,36 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradle
+build/
+reports/
+
+# Other
+*.log
+**/classes/*
+catalina.*/
+bin
+*.episode
+rpm_config_override/
+activemq-data/
+out/
+
+.DS_Store
+/.idea/
+/gradle/
+/gradle/wrapper/
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
